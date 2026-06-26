@@ -1,16 +1,15 @@
-# React + Vite
+College Management System
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+CampusCore is a web-based College Management System designed to simplify and automate the daily operations of educational institutions. It provides a centralized platform for managing students, faculty, courses, attendance, examinations, and administrative tasks efficiently. The system reduces paperwork, improves data accuracy, and enables seamless communication between students, faculty, and administrators through a user-friendly interface.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Key Features
+🎓 Student Registration and Profile Management
+👨‍🏫 Faculty Management
+📚 Course and Department Management
+📝 Attendance Tracking
+📊 Examination and Result Management
+💰 Fee Management
+📅 Academic Calendar and Timetable
+🔒 Secure Login with Role-Based Access (Admin, Faculty, Student)
+📈 Dashboard with Real-Time Statistics
+🔍 Search, Filter, and Report Generation
